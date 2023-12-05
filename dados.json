@@ -1,0 +1,24 @@
+[ 
+    {
+        "nome": "Ace",
+        "idade": "19",
+        "esta_trabalhando": true,
+        "detalhes_profissao": {
+            "profissao": "Programador",
+            "empresa": "Empresa X"
+        },
+        "hobbies": ["Videogames", "Basquete", "Ler livros", "Programar", "Skate"]
+    },
+    {
+        "nome": "Luffy",
+        "idade": "18",
+        "esta_trabalhando": true,
+        "detalhes_profissao": {
+            "profissao": null,
+            "empresa": null
+        },
+        "hobbies": ["Videogames", "Basquete", "Ler livros", "Programar", "Skate"]
+    }
+
+]
+
